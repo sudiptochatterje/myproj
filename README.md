@@ -22,7 +22,7 @@ This sample includes:
 
 Getting Started
 ---------------
-
+i dont know anything about this ...just started
 These directions assume you want to develop on your local computer, and not
 from the Amazon EC2 instance itself.
 
